@@ -4,11 +4,11 @@
 
 ## Blueprint
 
-
+![EasyFade_Nodes](https://github.com/suramaru517/EasyFade/assets/50897830/d00c3c96-6385-4e87-984b-5137de75caf0)
 
 ### Example:
 
-
+![EasyFade_Example](https://github.com/suramaru517/EasyFade/assets/50897830/229d546e-5c14-4f5e-a33a-c20c71850801)
 
 ## C++
 
